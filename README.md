@@ -1,0 +1,1 @@
+Proyecto desarrollado durante el Grado Superior de ASIR con el objetivo de crear una aplicación para buscar y visualizar películas de animación a través de llamadas a API (Application Programming Interface).
